@@ -1,0 +1,66 @@
+
+
+.navbar {
+    width: 100%;
+    background-color: rgb(48, 47, 47);
+    padding-top: 0.5em;
+    padding-bottom: 0em;
+    justify-content: center;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    padding: 0.5em;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+ion-icon {
+    font-size: 18px;
+    color: white;
+    vertical-align: middle;
+}
+
+.unicef {
+    background-color: rgb(36, 36, 36);
+    text-align: center;
+    padding: 1em;
+}
+
+#donate {
+    color: rgb(63, 145, 252);
+}
+
+#earth {
+    font-size: 30px;
+    vertical-align: middle;
+    padding-right: 0.5em;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.super {
+    color: hotpink;
+}
+
+p {
+    text-align: center;
+}
